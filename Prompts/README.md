@@ -1,3 +1,1 @@
-# Prompts
-
-This folder is for storing prompts, instructions, and related materials.
+Placeholder for Prompts documentation.

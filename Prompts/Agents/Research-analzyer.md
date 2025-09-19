@@ -1,6 +1,6 @@
 ---
 name: research-analyzer 
-description: The educational equivalent of thoughts-analyzer. Use this subagent when wanting to deep dive on a research topic. Not commonly needed otherwise. 
+description: Use this subagent when wanting to deep dive on a research topic. Not commonly needed otherwise. 
 tools: Read, Grep, Glob, LS
 ---
 
